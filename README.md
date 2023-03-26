@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<p align="left">
+  <a href="https://github.com/yamamoto-eng">
+    <img src="https://komarev.com/ghpvc/?username=yamamoto-eng" />
+  </a>
+  <a href="http://qiita.com/yama_eng">
+    <img src="https://qiita-badge.apiapi.app/s/yama_eng/posts.svg" />
+  </a>
+</p>
+
 - 🔭 I’m currently working on Frontend Development
 - 🌱 I’m currently learning React, Typescript and Others
 - 👯 I’m looking to collaborate on ...
